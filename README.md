@@ -5,4 +5,4 @@
 ### First impressions, the grease looks unusable on the bad bearing.
 #### Neville W. Sachs, P.E., 2017. Failure Analysis Made Simple: Bearings and Gears. Ft. Meyers (FL): ReliabilityWeb.com
 #### SKF, Bearing Damage and Failure Analysis.
-![alt text](media/DE bearing Bad.jpg "Logo Title Text 1")
+![alt text](https://github.com/TyHuffman/AHU-5-Bearing-Fault/blob/main/media/DE%20bearing%20Bad.jpg "Logo Title Text 1")
